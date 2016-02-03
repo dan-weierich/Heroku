@@ -1,0 +1,137 @@
+.logo {
+	display: inline-block;
+}
+
+.heading .logo {
+	padding-left: 140px;
+}
+
+.container {
+	display: inline-block;
+}
+
+.logo h1 {
+	background-color: #4aaaa5;
+	padding: 10px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #ffffff;
+	text-align: center;
+}
+
+.jumbotron .large {
+	width: 420px;
+	height: 600px;
+}
+
+.heading .nav {
+	float: right;
+	display: inline-block;
+	padding-right: 260px;
+	padding-top: 50px;
+}
+
+.nav .container li {
+	color: #777777;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.jumbotron {
+	background-color: #f0f0f0;
+}
+
+.jumbotron .large {
+	width: 420px;
+	height: 700px;
+	border-style: solid;
+	display: inline-block;
+	float: left;
+	overflow: hidden;
+	border-color: #dcdcdc;
+	background-color: #ffffff;
+	padding: 20px 30px 0px 25px;
+	margin: 60px 20px 0px 140px;
+}
+
+.jumbotron .small {
+	width: 170px;
+	height: 130px;
+	float: left;
+	border-style: solid;
+	border-color: #dcdcdc;
+	background-color: #ffffff;
+	padding: 20px 30px 0px 25px;
+	margin: 50px 10px 10px 140px;
+}
+
+.jumbotron .large h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-bottom: 3px solid #dcdcdc;
+	color: #4aaaa5;
+	font-size: 40px;
+}
+
+.jumbotron .small .connect {
+	text-align: center;
+	padding-right: 0px;
+}
+
+.jumbotron .small .connect li {
+	display: inline-block;
+}
+
+.jumbotron .small .connect li img {
+	width: 35px;
+	height: 35px;
+	padding-right: 5px;
+}
+
+.jumbotron .about p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 20px;
+}
+
+.jumbotron .small h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border-bottom: 3px solid #dcdcdc;
+	color: #4aaaa5;
+	font-size: 15px;
+}
+
+.footer footer {
+	margin: 25px 0px 0px 0px;
+}
+
+footer {
+	background-color: #666666;
+	color: #b2b1b0;
+	border-top: 10px solid #4aaaa5;
+	text-align: center;
+	display: inline-block;
+	padding: 35px 500px 35px 500px;
+	font-size: 15px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.jumbotron .large .about .image {
+   display: inline-block;
+   width: 100%;
+}
+
+.jumbotron .large .about .image #id .image img {
+	display: inline-block;
+	overflow: hidden;
+	position: right;
+	width: 30px;
+	height: 30px;
+}
+
+.jumbotron .large .about .image h3 { 
+   color: #ffffff;
+   text-align: center;
+   padding-right: 190px;
+   margin-right: 190px;
+   background-color: #4aaaa5;
+   font-size: 15px;
+}
